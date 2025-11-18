@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://fitforfutbol.com/wp-content/uploads/2016/04/athletetrack.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy your SportVision app
 
 This contains everything you need to run your app locally.
 

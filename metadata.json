@@ -1,0 +1,5 @@
+{
+  "name": "SportVision Athlete Monitoring",
+  "description": "A coach-first performance monitoring system that automatically ingests athlete data, centralizes it, and exposes it through a fast, clean dashboard. It provides real-time load trends, rehab tracking, and sensor data visualization, with AI-powered insights from Gemini.",
+  "requestFramePermissions": []
+}
